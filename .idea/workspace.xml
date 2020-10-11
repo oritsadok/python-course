@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="58a9abb1-733f-4bf4-95c7-76ae7e5c0d81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TT/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TT/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TT/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TT/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TT/myscript.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/myscript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT1/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT1/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT1/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
