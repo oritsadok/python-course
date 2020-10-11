@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58a9abb1-733f-4bf4-95c7-76ae7e5c0d81" name="Default Changelist" comment="" />
+    <list default="true" id="58a9abb1-733f-4bf4-95c7-76ae7e5c0d81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TT/myscript.py" beforeDir="false" afterPath="$PROJECT_DIR$/TT1/myscript.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iEzC9MulvqHlZlO55dz1T3ld0s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ori\dev\pyton-cuorse\lec 1" />
@@ -142,6 +153,17 @@
       <updated>1601487408448</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
